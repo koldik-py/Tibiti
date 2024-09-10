@@ -1,4 +1,7 @@
 # TON
-Ленднинг (красиво, адаптивно)
+Ленднинг
 
-[https://koldik-py.github.io/TON](https://koldik-py.github.io/TON/)
+ - Видеофон
+ - Адаптив
+
+[https://koldik-py.github.io/Tibiti/](https://koldik-py.github.io/Tibiti/)
